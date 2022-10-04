@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "django-px-test3"
+  description: "Django App for Test3 Tenant"
+  annotations:
+    github.com/project-slug: MavenWave-DevOps/django-px-test3
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "px-test3"

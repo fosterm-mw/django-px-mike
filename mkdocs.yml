@@ -1,0 +1,8 @@
+site_name: "django-px-test3"
+site_description: "Django App for Test3 Tenant"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
